@@ -1,0 +1,100 @@
+The matrix size is: 5000
+Time taken to count the number of zeros: 338 milliseconds
+Total Number of zero-valued elements in the matrix: 10000000
+Number of zero-valued elements counted by thread1: 625863
+Number of zero-valued elements counted by thread2: 626240
+Number of zero-valued elements counted by thread3: 626103
+Number of zero-valued elements counted by thread4: 627128
+Number of zero-valued elements counted by thread5: 625988
+Number of zero-valued elements counted by thread6: 625203
+Number of zero-valued elements counted by thread7: 625151
+Number of zero-valued elements counted by thread8: 627241
+Number of zero-valued elements counted by thread9: 624322
+Number of zero-valued elements counted by thread10: 623820
+Number of zero-valued elements counted by thread11: 624083
+Number of zero-valued elements counted by thread12: 623317
+Number of zero-valued elements counted by thread13: 624580
+Number of zero-valued elements counted by thread14: 622949
+Number of zero-valued elements counted by thread15: 624014
+Number of zero-valued elements counted by thread16: 623998
+
+The matrix size is: 3000
+Time taken to count the number of zeros: 123 milliseconds
+Total Number of zero-valued elements in the matrix: 3600000
+Number of zero-valued elements counted by thread1: 225921
+Number of zero-valued elements counted by thread2: 225022
+Number of zero-valued elements counted by thread3: 225680
+Number of zero-valued elements counted by thread4: 224731
+Number of zero-valued elements counted by thread5: 225212
+Number of zero-valued elements counted by thread6: 226315
+Number of zero-valued elements counted by thread7: 225546
+Number of zero-valued elements counted by thread8: 225895
+Number of zero-valued elements counted by thread9: 223773
+Number of zero-valued elements counted by thread10: 225149
+Number of zero-valued elements counted by thread11: 224268
+Number of zero-valued elements counted by thread12: 224424
+Number of zero-valued elements counted by thread13: 225215
+Number of zero-valued elements counted by thread14: 224257
+Number of zero-valued elements counted by thread15: 224183
+Number of zero-valued elements counted by thread16: 224409
+
+The matrix size is: 4000
+Time taken to count the number of zeros: 235 milliseconds
+Total Number of zero-valued elements in the matrix: 6400000
+Number of zero-valued elements counted by thread1: 400368
+Number of zero-valued elements counted by thread2: 400731
+Number of zero-valued elements counted by thread3: 400045
+Number of zero-valued elements counted by thread4: 400258
+Number of zero-valued elements counted by thread5: 399109
+Number of zero-valued elements counted by thread6: 399474
+Number of zero-valued elements counted by thread7: 400547
+Number of zero-valued elements counted by thread8: 399686
+Number of zero-valued elements counted by thread9: 400042
+Number of zero-valued elements counted by thread10: 400916
+Number of zero-valued elements counted by thread11: 399827
+Number of zero-valued elements counted by thread12: 399641
+Number of zero-valued elements counted by thread13: 399727
+Number of zero-valued elements counted by thread14: 400924
+Number of zero-valued elements counted by thread15: 399765
+Number of zero-valued elements counted by thread16: 398940
+
+The matrix size is: 2000
+Time taken to count the number of zeros: 52 milliseconds
+Total Number of zero-valued elements in the matrix: 1600000
+Number of zero-valued elements counted by thread1: 100045
+Number of zero-valued elements counted by thread2: 100209
+Number of zero-valued elements counted by thread3: 99961
+Number of zero-valued elements counted by thread4: 99919
+Number of zero-valued elements counted by thread5: 99897
+Number of zero-valued elements counted by thread6: 100370
+Number of zero-valued elements counted by thread7: 99342
+Number of zero-valued elements counted by thread8: 99952
+Number of zero-valued elements counted by thread9: 99957
+Number of zero-valued elements counted by thread10: 99927
+Number of zero-valued elements counted by thread11: 99837
+Number of zero-valued elements counted by thread12: 100470
+Number of zero-valued elements counted by thread13: 99776
+Number of zero-valued elements counted by thread14: 99884
+Number of zero-valued elements counted by thread15: 100564
+Number of zero-valued elements counted by thread16: 99890
+
+The matrix size is: 1000
+Time taken to count the number of zeros: 12 milliseconds
+Total Number of zero-valued elements in the matrix: 400000
+Number of zero-valued elements counted by thread1: 25203
+Number of zero-valued elements counted by thread2: 25392
+Number of zero-valued elements counted by thread3: 25221
+Number of zero-valued elements counted by thread4: 25035
+Number of zero-valued elements counted by thread5: 24821
+Number of zero-valued elements counted by thread6: 25232
+Number of zero-valued elements counted by thread7: 25178
+Number of zero-valued elements counted by thread8: 25354
+Number of zero-valued elements counted by thread9: 24892
+Number of zero-valued elements counted by thread10: 24786
+Number of zero-valued elements counted by thread11: 24698
+Number of zero-valued elements counted by thread12: 24758
+Number of zero-valued elements counted by thread13: 24825
+Number of zero-valued elements counted by thread14: 24891
+Number of zero-valued elements counted by thread15: 24875
+Number of zero-valued elements counted by thread16: 24839
+

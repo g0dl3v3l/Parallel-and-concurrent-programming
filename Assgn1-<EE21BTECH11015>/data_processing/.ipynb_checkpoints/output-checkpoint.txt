@@ -1,0 +1,6 @@
+Method: chunk
+
+Method: mixed
+
+Method: dynamic
+
